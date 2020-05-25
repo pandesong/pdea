@@ -1,0 +1,21 @@
+AntSupport
+ByteCodeViewer
+Coverage
+DevKit
+JUnit
+TestNG-J
+amailp.intellij.robot
+com.intellij.commander
+com.intellij.java
+com.intellij.java-i18n
+com.intellij.java.ide
+com.intellij.uiDesigner
+com.millennialmedia.intellibot
+com.millennialmedia.intellibot@SeleniumLibrary Patched
+org.intellij.groovy
+org.jetbrains.debugger.streams
+org.jetbrains.idea.eclipse
+org.jetbrains.idea.maven
+org.jetbrains.java.decompiler
+org.jetbrains.plugins.javaFX
+org.jetbrains.plugins.textmate

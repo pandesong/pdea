@@ -1,0 +1,9 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

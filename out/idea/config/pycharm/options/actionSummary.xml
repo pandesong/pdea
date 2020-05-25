@@ -1,0 +1,33 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="GotoDeclaration">
+        <ActionSummary times="3" last="1590305877285" />
+      </entry>
+      <entry key="Run">
+        <ActionSummary times="2" last="1590305858361" />
+      </entry>
+      <entry key="ShowSettings">
+        <ActionSummary times="10" last="1590336865128" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
+        <ActionSummary times="4" last="1590306663536" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
+        <ActionSummary times="1" last="1590336534535" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$3">
+        <ActionSummary times="1" last="1590336819603" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$4">
+        <ActionSummary times="5" last="1590336879591" />
+      </entry>
+      <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+        <ActionSummary times="8" last="1590306662593" />
+      </entry>
+      <entry key="com.intellij.notification.NotificationAction$1">
+        <ActionSummary times="1" last="1590336504711" />
+      </entry>
+    </data>
+  </component>
+</application>
