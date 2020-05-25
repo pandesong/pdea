@@ -3,7 +3,7 @@
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="InstalledPluginsSearchHistory" value="text&#10;inte&#10;int&#10;in&#10;i" />
-    <property name="MarketplacePluginsSearchHistory" value="C++" />
+    <property name="MarketplacePluginsSearchHistory" value="robot&#10;C++" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
@@ -14,13 +14,13 @@
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="PyCharm.initialConfigurationShown" value="true" />
     <property name="TrendingPluginsSearchHistory" value="intell&#10;intel&#10;robot" />
-    <property name="file.chooser.recent.files" value="F:/CODE/Robot FrameWork/intellibot-master/out/artifacts/intellibot_master1_jar/intellibot-master1.jar&#10;F:/CODE/Robot FrameWork/robot-plugin-master (1).zip&#10;F:/CODE/Robot FrameWork/robot-plugin-master/out/artifacts/robot_plugin_master_jar/robot-plugin-master.jar&#10;F:/CODE/test/RF/dabao.py&#10;F:/CODE/test/RF" />
+    <property name="file.chooser.recent.files" value="F:/CODE/Robot FrameWork/intellibot-master/intellibot.jar&#10;F:/CODE/Robot FrameWork/intellibot-master/out/artifacts/intellibot_master_jar/intellibot-master.jar&#10;F:/CODE/Robot FrameWork/intellibot-master/out/artifacts/intellibot_master1_jar/intellibot-master1.jar&#10;F:/CODE/Robot FrameWork/robot-plugin-master (1).zip&#10;F:/CODE/Robot FrameWork/robot-plugin-master/out/artifacts/robot_plugin_master_jar/robot-plugin-master.jar&#10;F:/CODE/test/RF/dabao.py&#10;F:/CODE/test/RF" />
     <property name="file.gist.reindex.count" value="11591" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="lastTip" value="1" />
-    <property name="last_opened_file_path" value="F:/CODE/Robot FrameWork/intellibot-master/out/artifacts/intellibot_master1_jar/intellibot-master1.jar" />
-    <property name="plugins.preselection.path" value="F:/CODE/Robot FrameWork/intellibot-master/out/artifacts/intellibot_master1_jar" />
+    <property name="last_opened_file_path" value="F:/CODE/Robot FrameWork/intellibot-master/intellibot.jar" />
+    <property name="plugins.preselection.path" value="F:/CODE/Robot FrameWork/intellibot-master" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>
   <component name="PyTestFrameworkService">

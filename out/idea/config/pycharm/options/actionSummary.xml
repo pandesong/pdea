@@ -1,17 +1,26 @@
 <application>
   <component name="ActionsLocalSummary">
     <data>
+      <entry key="EditorCopy">
+        <ActionSummary times="1" last="1590420803141" />
+      </entry>
+      <entry key="FindUsages">
+        <ActionSummary times="1" last="1590422151840" />
+      </entry>
       <entry key="GotoDeclaration">
-        <ActionSummary times="3" last="1590305877285" />
+        <ActionSummary times="14" last="1590422141964" />
       </entry>
       <entry key="Run">
         <ActionSummary times="2" last="1590305858361" />
       </entry>
       <entry key="ShowSettings">
-        <ActionSummary times="10" last="1590336865128" />
+        <ActionSummary times="18" last="1590422075415" />
+      </entry>
+      <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$SettingsActionGroup">
+        <ActionSummary times="1" last="1590421960987" />
       </entry>
       <entry key="com.intellij.ide.plugins.PluginManagerConfigurable$InstallFromDiskAction">
-        <ActionSummary times="4" last="1590306663536" />
+        <ActionSummary times="10" last="1590420758734" />
       </entry>
       <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
         <ActionSummary times="1" last="1590336534535" />
@@ -23,7 +32,7 @@
         <ActionSummary times="5" last="1590336879591" />
       </entry>
       <entry key="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
-        <ActionSummary times="8" last="1590306662593" />
+        <ActionSummary times="20" last="1590420757771" />
       </entry>
       <entry key="com.intellij.notification.NotificationAction$1">
         <ActionSummary times="1" last="1590336504711" />

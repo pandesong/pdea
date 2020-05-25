@@ -10,8 +10,8 @@ com.intellij.java
 com.intellij.java-i18n
 com.intellij.java.ide
 com.intellij.uiDesigner
-com.millennialmedia.intellibot
-com.millennialmedia.intellibot@SeleniumLibrary Patched
+com.jetbrains.jps.cache
+com.jivesoftware.robot.intellij.plugin
 org.intellij.groovy
 org.jetbrains.debugger.streams
 org.jetbrains.idea.eclipse

@@ -6456,7 +6456,7 @@
         <option name="myPlugins">
           <set>
             <plugin>
-              <option name="myPluginId" value="com.jivesoftware.robot.intellij.plugin" />
+              <option name="myPluginId" value="com.millennialmedia.intellibot" />
               <option name="myPluginName" />
               <option name="myBundled" value="false" />
             </plugin>
